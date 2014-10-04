@@ -1,0 +1,17 @@
+[user]
+	name = Dario Gieselaar
+	email = d.gieselaar@gmail.com
+[diff]
+	tool = diffmerge
+[merge]
+    tool = kdiff3
+[mergetool "kdiff3"]
+    cmd = \"C:\\\\Program Files\\\\KDiff3\\\\kdiff3\" $BASE $LOCAL $REMOTE -o $MERGED
+[gui]
+	recentrepo = D:/www/zaaksysteem
+[core]
+	filemode = false
+	autocrlf = false
+	eol = lf
+[url "https://"]   
+    insteadOf = git://
