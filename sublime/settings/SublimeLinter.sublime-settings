@@ -1,0 +1,17 @@
+{
+	"sublime_linter": true,
+	"jshint_options": {
+		"curly": true,
+		"eqeqeq": true,
+		"immed": true,
+		"latedef": true,
+		"newcap": true,
+		"noarg": true,
+		"nonew": true,
+		"undef": true,
+		"unused": true,
+		"trailing": false,
+		"eqnull": true
+	},
+	"sublimelinter_mark_style": "outline"
+}
